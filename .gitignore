@@ -1,2 +1,5 @@
 # Personal source material — not for public repo
 pedagogy/sources/
+
+# Cards stay local — repo is portfolio scaffold only
+cards/*.txt
