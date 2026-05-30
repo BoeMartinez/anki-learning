@@ -3,3 +3,4 @@ pedagogy/sources/
 
 # Cards stay local — repo is portfolio scaffold only
 cards/*.txt
+!cards/examples.txt

@@ -1,0 +1,26 @@
+#separator:tab
+#html:false
+#deck:examples
+#notetype:Basic
+#columns:Front	Back	Tags
+
+# --- ML / Technical Vocabulary ---
+
+What is a sparse autoencoder?	A neural network trained to compress and reconstruct input, with a penalty that forces most hidden activations to zero. The result is a small set of active features per input — an interpretable feature dictionary rather than a dense blob.	ml-vocab examples
+What is the generation effect in learning?	Producing an answer from memory strengthens retention more than reading the answer. The act of retrieval — even failed retrieval — consolidates the memory more than passive review.	learning-science examples
+
+# --- Food Science ---
+
+What happens chemically during the Maillard reaction?	Amino acids and reducing sugars react under heat, producing hundreds of flavor and aroma compounds and characteristic browning. It is not caramelization — it requires both protein and sugar.	food-science examples
+What is Koji (Aspergillus oryzae) and why does it matter in cooking?	A mold cultivated on grains or legumes that secretes amylases and proteases. It breaks down starches into sugars and proteins into free amino acids — the biological engine behind miso, soy sauce, sake, and modern umami applications.	food-science examples
+
+# --- Perception & Neuroscience ---
+
+What is the Ebbinghaus illusion and what does it reveal?	Two identical circles surrounded by rings of larger or smaller circles appear to be different sizes. Cross-cultural research shows people from non-carpentered environments are far less susceptible — the illusion requires contextual size-inference to be installed by experience.	perception examples
+What is Visual Snow Syndrome (VSS)?	A neurological condition where persistent static — like TV snow — overlays the entire visual field at all times. Thought to involve hyperexcitability of the visual cortex, letting through noise that most brains suppress. Most people with VSS did not know others lacked it.	vss perception examples
+What does acquired savant syndrome in frontotemporal dementia suggest?	Some FTD patients develop new artistic or musical abilities as frontal inhibition degrades. This implies the frontal lobes actively suppress certain creative outputs in healthy brains — the capacity was present but gated.	ftd neuroscience examples
+
+# --- Learning Science ---
+
+What is the spacing effect?	Distributing practice over time produces stronger long-term retention than massing the same amount of practice in one session. The brain consolidates memory during rest between sessions.	learning-science examples
+What is predictive coding as a theory of perception?	The brain generates top-down predictions of expected sensory input and passes only prediction errors (surprises) upward. What you perceive is mostly the brain's model, corrected at the edges by incoming data — not a direct recording of reality.	neuroscience perception examples
