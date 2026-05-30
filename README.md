@@ -14,7 +14,7 @@ Spaced repetition fixes this at the root. Anki has worked well for me before and
 
 ## What's in here
 
-- `cards/ml-vocab.txt` - the cards, TSV format, ready to import
+- `examples.txt` - demonstration cards across topics, TSV format, ready to import into Anki
 - `pedagogy/scaffold.md` - the learning science behind how cards are designed
 - `setup/HOME_INSTRUCTIONS.md` - getting Anki set up and wired to Claude
 - `log.md` - running record of what's been added and why (optional)
@@ -44,7 +44,7 @@ The reasoning behind all of this is in `pedagogy/scaffold.md`.
 
 You have a coding agent open, you're reading something, a term comes up that you want to own. You drop it in, the agent uses the card schema to design it and writes it straight into your collection. Sync Anki to your phone and you're studying it before the end of the day.
 
-The TSV files here are the cards I've built so far. If you want to generate your own, point your agent at `pedagogy/scaffold.md` so it knows how to design them. Feedback is key — the cards get better as you get clearer on what you actually want to learn and how you want it presented.
+If you want to generate your own cards, point your agent at `pedagogy/scaffold.md` so it knows how to design them. Feedback is key — the cards get better as you get clearer on what you actually want to learn and how you want it presented.
 
 Full setup in `setup/HOME_INSTRUCTIONS.md`.
 
